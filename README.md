@@ -7,7 +7,7 @@
 2. Перейди в **Server > Data Import**
 3. Выбери:
    - `Import from Self-Contained File`
-   - Укажи путь к `mydb_заказы.sql`
+   - Укажи путь к `Dump20250615.sql`
    - Ниже выбери `Create New Schema`, назови, например, `mydb`
 4. Нажми **Start Import**
 5. Убедись, что база `mydb` появилась и в ней есть таблицы и данные
