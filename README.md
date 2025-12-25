@@ -1,4 +1,4 @@
-# diplom
+# Marketplace for guides
 ВКР 20230618
 
 ## Как развернуть базу данных
